@@ -1,0 +1,16 @@
+# Core dependencies
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Data source
+yfinance==0.2.40
+
+# Machine Learning / Deep Learning
+scikit-learn==1.5.2
+tensorflow==2.15.0
+
+# Optional utilities
+jupyter==1.0.0
+notebook==7.2.2
